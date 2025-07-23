@@ -1,0 +1,40 @@
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\bin\Debug\ConvertArabicNumber.exe.config
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\bin\Debug\ConvertArabicNumber.exe
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\bin\Debug\ConvertArabicNumber.pdb
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\MainWindow.g.cs
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\App.g.cs
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber_MarkupCompile.cache
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber_MarkupCompile.lref
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\MainWindow.baml
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.g.resources
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.Properties.Resources.resources
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.csproj.GenerateResource.Cache
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.exe
+D:\source\TEST\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.pdb
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\bin\Debug\ConvertArabicNumber.exe.config
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.exe
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.pdb
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\bin\Debug\ConvertArabicNumber.exe
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\bin\Debug\ConvertArabicNumber.pdb
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.csprojResolveAssemblyReference.cache
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\MainWindow.g.cs
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\App.g.cs
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber_MarkupCompile.cache
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber_MarkupCompile.lref
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\MainWindow.baml
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.g.resources
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.Properties.Resources.resources
+C:\Users\Boudehane Sidali\Desktop\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.csproj.GenerateResource.Cache
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\bin\Debug\ConvertArabicNumber.exe.config
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.exe
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.pdb
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\bin\Debug\ConvertArabicNumber.exe
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\bin\Debug\ConvertArabicNumber.pdb
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\MainWindow.g.cs
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\App.g.cs
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber_MarkupCompile.cache
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber_MarkupCompile.lref
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\MainWindow.baml
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.g.resources
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.Properties.Resources.resources
+C:\Users\Boudehane Sidali\Desktop\Nouveau dossier\ConvertArabicNumber\ConvertArabicNumber\obj\Debug\ConvertArabicNumber.csproj.GenerateResource.Cache
