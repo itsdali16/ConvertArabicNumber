@@ -16,5 +16,10 @@ namespace ConvertArabicNumber
 
             return Double.TryParse(number, out i);
         }
+		
+        public static string getDoubleDecimalSeparator()
+        {
+            return System.Threading.Thread.CurrentThread.CurrentCulture.NumberFormat.NumberDecimalSeparator;
+        }
     }
 }
